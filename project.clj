@@ -1,4 +1,4 @@
-(defproject todoer "1.0.0"
+(defproject todoer "1.0.1"
   :description "Returns the todos and their prioritys"
   :url "https://github.com/trueFireblade/todoer.git"
   :plugins [[cider/cider-nrepl "0.24.0"]]
